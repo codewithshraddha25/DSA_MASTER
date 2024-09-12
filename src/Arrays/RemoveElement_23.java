@@ -1,5 +1,5 @@
 package Arrays;
-
+//23. remove element leetcode array problem where we have to remove given val from arr
 public class RemoveElement_23 {
 
 	public static void main(String[] args) {
